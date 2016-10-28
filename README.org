@@ -1,4 +1,6 @@
 * Konferenz -- CMS for active documentation
+  In development -- nothing impressive here yet. Move it along.
+
 ** Objective
 ** Documentation
 ** Scratchpad
