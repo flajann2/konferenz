@@ -1,0 +1,4 @@
+* Konferenz -- CMS for active documentation
+** Objective
+** Documentation
+** Scratchpad
